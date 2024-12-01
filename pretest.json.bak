@@ -1,0 +1,20 @@
+[
+    {
+        "question": "The friction loss is given by",
+        "qid": 1,
+        "option_a": "$$ \\frac{4 f v^2}{2gd} $$",
+        "option_b": "$$ \\frac{4 f l v}{2gd} $$",
+        "option_c": "$$ \\frac{4 f l v^2}{2g} $$",
+        "option_d": "$$ \\frac{4 f l v^2}{2gd} $$",
+        "correct_option": "d"
+    },
+    {
+        "question": "What is the minimum pressure required at the summit to maintain the flow",
+        "qid": 2,
+        "option_a": "2.7 m",
+        "option_b": "4.6 m",
+        "option_c": "1 m",
+        "option_d": "3.9 m",
+        "correct_option": "a"
+    }
+]
