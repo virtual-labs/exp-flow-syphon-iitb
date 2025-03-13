@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A Syphon of diameter 57mm connects two reservoirs having a difference in elevation of h2 = 18m. The length of the Syphon is 397m and the summit is h1 = 1.4m above the water level in the upper reservoir. The length of the pipe from upper reservoir is L1 = 77m. Determine the discharge at the summit. Consider only frcition loss, take f = 0.005.",
+      "qid": 1,
+      "option_a": "5 l/s",
+      "option_b": "10 l/s",
+      "option_c": "7 l/s",
+      "option_d": "4 l/s",
+      "correct_option": "d"
+   },
+   {
+      "question": "A Syphon of diameter 64mm connects two reservoirs having a difference in elevation of h2 = 20m. The length of the Syphon is 388m and the summit is h1 = 1.7m above the water level in the upper reservoir. The length of the pipe from upper reservoir is L1 = 71m. Determine the discharge at the summit. Consider only frcition loss, take f = 0.005.",
+      "qid": 2,
+      "option_a": "6 l/s",
+      "option_b": "9 l/s",
+      "option_c": "8 l/s",
+      "option_d": "4 l/s",
+      "correct_option": "a"
+   }
+]
